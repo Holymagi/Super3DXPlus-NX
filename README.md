@@ -1,5 +1,3 @@
-
-```markdown
 # NSwitch3DX+ (Unofficial Nintendo Switch Port)
 
 *Formerly **Super3DX+ NX** — officially rebranded to **NSwitch3DX+**.*
@@ -51,22 +49,13 @@ Requires **devkitPro** (MSYS2 on Windows) with the following Switch packages ins
 pacman -Syu
 pacman -S switch-dev switch-sdl2 switch-mesa switch-zlib
 
-```
-
-Compile using Python (recommended) or directly via MSYS2 `make`:
-
-```bash
+Compile using Python (recommended) or directly via MSYS2 make:
 # Option 1: Using build script
 python build.py switch
 
 # Option 2: Direct make inside MSYS2
 make -C platform/switch
 
-```
-
-The compiled binary will be output as `super3dx+nx.nro`.
-
----
 
 ## Team, License & Credits
 
