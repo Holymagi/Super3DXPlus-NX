@@ -141,7 +141,7 @@ Licensed under the **MIT License** (`LICENSE`), preserving Re3DX+'s copyright. G
 ## Links & Support
 
 * 🌐 **Official Website:** [super3dxpluss-nx.vercel.app](https://www.google.com/search?q=https://super3dxpluss-nx.vercel.app)
-* ♥ **Support / Donate:** [donatekasaneproject.vercel.app](https://donatekasaneproject.vercel.app/)
+  
 
 ```
 
