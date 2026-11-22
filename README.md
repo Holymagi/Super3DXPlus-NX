@@ -42,10 +42,6 @@ An unofficial Nintendo Switch homebrew port of **[Super3DXPlus](https://github.c
 
 ---
 
-Ini hasil rombakan `README.md` buat GitHub—sudah saya update ke branding **NSwitch3DX+**, fitur **v1.0.2**, *path* folder baru (`sdmc:/switch/super3dx+nx/`), daftar tim lengkap + *Original Owner*, dan sekalian saya benerin link yang kemarin sempat nyangkut ke `[google.com/search?q=](https://google.com/search?q=)`.
-
-Tinggal *copy-paste* ke `README.md`:
-
 ```markdown
 # NSwitch3DX+ (Unofficial Nintendo Switch Port)
 
