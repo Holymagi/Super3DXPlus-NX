@@ -1,4 +1,4 @@
-# Super3DX+ NX
+# NSwitch3DX+
 
 An unofficial **Nintendo Switch** homebrew port of *Wangan Midnight Maximum Tune 3DX+*, built on top of [Super3DX+](https://github.com/smolderyguest/Super3DXPlus) and [Re3DX+](NOTICE.md) using `devkitPro`, `libnx`, `SDL2`, and OpenGL ES (`switch-mesa`).
 
