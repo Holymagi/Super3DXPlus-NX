@@ -68,17 +68,16 @@ sdmc:/
             ├── menu.bin
             ├── phys.img
             └── (converted game assets...)
+```
 
-1.Boot into Atmosphère
+1. Boot into **Atmosphère**.
+2. Open the Homebrew Menu via **Title Takeover** (hold `R` while launching any installed title).
+3. Launch **Super3DXPlus-NX**.
 
-2.Open the Homebrew Menu via Title Takeover (hold R while launching any installed title)
+---
 
-3.Launch NSwitch3DX+
+## Credits & License
 
-Credits & License
-Nintendo Switch Port (Super3DXPlus-NX / NSwitch3DX+): Holymagi
-
-Upstream Projects: Super3DX+ & Re3DX+ contributors — see NOTICE.md for full attributions.
-
-License: Distributed under the MIT License — see LICENSE for details.
-
+- **Nintendo Switch Port (Super3DXPlus-NX / NSwitch3DX+):** [Holymagi](https://github.com/Holymagi)
+- **Upstream Projects:** Super3DX+ & Re3DX+ contributors — see [NOTICE.md](NOTICE.md) for full attributions.
+- **License:** Distributed under the MIT License — see [LICENSE](LICENSE) for details.
